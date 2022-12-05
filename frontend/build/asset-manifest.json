@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bonus-front/static/css/main.bb1cd6a4.chunk.css",
+    "main.js": "/bonus-front/static/js/main.f00f6663.chunk.js",
+    "main.js.map": "/bonus-front/static/js/main.f00f6663.chunk.js.map",
+    "runtime-main.js": "/bonus-front/static/js/runtime-main.188109f3.js",
+    "runtime-main.js.map": "/bonus-front/static/js/runtime-main.188109f3.js.map",
+    "static/js/2.493e2401.chunk.js": "/bonus-front/static/js/2.493e2401.chunk.js",
+    "static/js/2.493e2401.chunk.js.map": "/bonus-front/static/js/2.493e2401.chunk.js.map",
+    "index.html": "/bonus-front/index.html",
+    "precache-manifest.9ceca3fa33fe0f7210622e21118a5cd6.js": "/bonus-front/precache-manifest.9ceca3fa33fe0f7210622e21118a5cd6.js",
+    "service-worker.js": "/bonus-front/service-worker.js",
+    "static/css/main.bb1cd6a4.chunk.css.map": "/bonus-front/static/css/main.bb1cd6a4.chunk.css.map",
+    "static/js/2.493e2401.chunk.js.LICENSE.txt": "/bonus-front/static/js/2.493e2401.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.188109f3.js",
+    "static/js/2.493e2401.chunk.js",
+    "static/css/main.bb1cd6a4.chunk.css",
+    "static/js/main.f00f6663.chunk.js"
+  ]
+}
